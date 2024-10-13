@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: backend-msa-post
-        image: 967361137282.dkr.ecr.ap-northeast-2.amazonaws.com/devcow:post30
+        image: 967361137282.dkr.ecr.ap-northeast-2.amazonaws.com/devcow:post48
         ports:
         - containerPort: 8080
 ---
